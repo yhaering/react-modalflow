@@ -1,0 +1,21 @@
+# NodeJS related files
+node_modules
+npm-debug.log*
+.npm
+
+# Build files
+./types/
+./dist/
+./docs/
+
+# Test files
+./coverage/
+
+# Idea
+.idea/workspace.xml
+.idea/usage.statistics.xml
+.idea/tasks.xml
+.idea/shelf
+.idea/dataSources.ids
+.idea/datasources.xml
+*.iml
